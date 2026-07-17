@@ -23,7 +23,7 @@ The scraper logs into the Oregon public access portal, searches each case listed
 Install the Python packages used by the script:
 
 ```bash
-pip install requests beautifulsoup4 pytz slack-sdk
+pip install requests bs4 pytz slack-sdk
 ```
 
 ## Configuration
