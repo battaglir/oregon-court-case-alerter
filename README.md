@@ -16,7 +16,7 @@ The scraper logs into the Oregon public access portal, searches each case listed
 
 - Python 3
 - Internet access and login to the Oregon public access portal
-- A valid Slack bot token with permission to post to the target channel
+- A valid Slack bot token with permission to post to the target channel. Make these at [app.slack.com](app.slack.com)
 
 ## Install Dependencies
 
