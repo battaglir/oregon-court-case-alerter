@@ -74,4 +74,10 @@ Declaration
 Declaration
 Declaration
 Notice - Trial
+Declaration
+Response
+Memorandum - At Law
+Declaration
+Motion - Summary Judgment
+Letter
 Hearing - Summary Judgment
