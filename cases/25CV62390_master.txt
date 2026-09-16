@@ -97,3 +97,4 @@ Declaration
 Hearing - Summary Judgment
 Record - Proceedings
 Pending - Under Advisement
+Request - Record Proceedings
