@@ -99,3 +99,5 @@ Record - Proceedings
 Pending - Under Advisement
 Request - Record Proceedings
 Motion
+Order
+Order - Vacate
