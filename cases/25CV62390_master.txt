@@ -101,3 +101,8 @@ Request - Record Proceedings
 Motion
 Order
 Order - Vacate
+Order
+Notice - Trial
+Notice
+Hearing - Pre-Trial Conference
+Trial - Twelve Person Jury
